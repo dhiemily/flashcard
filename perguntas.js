@@ -1,36 +1,36 @@
 criaCartao(
     'Programação',
-    'O que é HTML?',
-    'O HTML (Linguagem de Marcação de HiperTexto)' 
+    'Qual instumento o Lula Molusco toca?',
+    'Uma clarinete' 
 )
 
 criaCartao(
     'Programação',
-    'O que é CSS?',
-    'O CSS é uma linguagem de estilização.'
+    'Qual o melhor amigo do Bob Esponja?',
+    'O Patrick Estrela'
 )
 
 criaCartao(
     'Programação',
-    'O que é JavaScript?',
-    'O JavaScript é uma linguagem de programação.'    
+    'Quem mora em um abacaxi no fundo do mar?',
+    'Bob Esponja Calça Quadrada'    
 )
 
 criaCartao(
     'Programação',
-    'O que é Front-end?',
-    ' O Front-end compreende a parte visual de sites e aplicações.'
+    'Qual o nome do bicho de estimação do Bob Esponja?',
+    ' Gary.'
 )
 
 criaCartao(
     'Programação',
-    'O que é Back-end?',
-    'O Back-end compreende tudo aquilo que tem por trás de uma aplicação.'
+    'o que o Plancton quer roubar?',
+    'A fórmula do hambúrguer de siri.'
 )
 
 criaCartao(
     'Programação',
-    'O que é Full Stack?',
-    'A Full Stack developer é uma pessoa que trabalha tanto com Front-end quanto com Back-end.'   
+    'Quem é dono do Siri Cascudo?',
+    'O seu Sirigueijo.'   
 ) 
 
